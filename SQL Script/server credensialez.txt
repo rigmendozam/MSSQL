@@ -1,0 +1,4 @@
+
+itdev.ddns.net
+Qaz1234
+credenciales para ingresar al servidor de desarrollo donde estan las bases de datos de spm,Beneo,Etc.
